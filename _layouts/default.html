@@ -6,13 +6,13 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
-  <meta name="description" content="Miruna Oprescu">
-  <meta name="author" content="Miruna Oprescu">
-  <meta property="og:title" content="Miruna Oprescu" />
+  <meta name="description" content="Ayush Khot">
+  <meta name="author" content="Ayush Khot">
+  <meta property="og:title" content="Ayush Khot" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://www.mirunaoprescu.com" />
-  <meta property="og:site_name" content="Miruna Oprescu" />
-  <link rel="canonical" href="http://www.mirunaoprescu.com" />
+  <meta property="og:url" content="http://www.ayushkhot.com" />
+  <meta property="og:site_name" content="Ayush Khot" />
+  <link rel="canonical" href="http://www.ayushkhot.com" />
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -59,15 +59,16 @@
   <link rel="icon" type="image/png" href={{ "/libs/icon.jpg" | prepend: site.baseurl }}>
   <link rel="shortcut icon" type="image/png" href={{ "/libs/icon.jpg" | prepend: site.baseurl }}>
 
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-45G7KH54CV"></script>
+  <!-- Google analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8CETL4TKYL"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-45G7KH54CV');
+    gtag('config', 'G-8CETL4TKYL');
   </script>
+
   <!-- End Google Analytics -->
    
 </head>
@@ -80,7 +81,11 @@
     <section class="header">
       <div class="row">
         <div class="three columns">
-          <a href="{{ site.baseurl }}/"><img class="u-max-full-width" src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'></a>
+          <a href="{{ site.baseurl }}/">
+            <img class="u-max-full-width" 
+                 src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'
+                 style="object-fit: cover; object-position: center 22%; aspect-ratio: 3802/3648;">
+          </a>
         </div>
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>

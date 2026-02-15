@@ -1,4 +1,4 @@
-# Miruna Oprescu's Website
+# Ayush Khot's Website
 
 This website was created using Jekyll and is based on a template by <a href="https://faculty.washington.edu/msaveski/" target="_blank">Martin Saveski</a>. 
 A huge thank you to Martin for designing this fantastic theme! You can find the code used to build the site in this <a href="https://github.com/msaveski/www_personal" target="_blank">GitHub repo</a>.
