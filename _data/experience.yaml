@@ -3,7 +3,7 @@ experiences:
 - place: "UIUC"
   time: "2025 - now"
   title: "Ph.D. in Computer Science"
-  subtitle: "Potential Advisor: Shaowen Wang"
+  # subtitle: "Potential Advisor: Shaowen Wang"
   category: "school"
 
 - place: "Brookhaven National Laboratory"
