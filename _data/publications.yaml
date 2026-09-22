@@ -12,6 +12,16 @@ papers:
     preprint: n
     selected: y
 
+  - title: "Applying Foundation Model Embeddings towards Urban Livability Evaluation"
+    authors: "<b>Ayush Khot</b>, Wen Zhou, Shaowen Wang"
+    venue: "ACM SIGSPATIAL'26: International Conference on Advances in Geographic Information Science. 2026."
+    image: "/assets/publications/2026_embedding_livability/network_framework_diagram.png"
+    paper_pdf: "/assets/publications/2026_embedding_livability/AlphaEarth_Livability_ACM.pdf"
+    arxiv: "https://arxiv.org/pdf/2609.09429"
+    code: "https://github.com/cybergis/embed-livability"
+    preprint: n
+    selected: y
+
 
   - title: "Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks"
     authors: "<b>Ayush Khot</b>, Xiwei Wang, Avik Roy, Volodymyr Kindratenko, Mark S. Neubauer"
