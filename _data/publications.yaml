@@ -4,7 +4,7 @@ papers:
     authors: "<b>Ayush Khot<span style='font-size: 20px;''>*</span></b>, Miruna Oprescu<span style='font-size: 20px;''>*</span>, Maresa Schröder, Ai Kagawa, Xihaier Luo"
     venue: "ICML'26: International Conference on Machine Learning. 2026."
     image: "/assets/publications/2025_spatial_deconfounder/Spatial_Deconfounder_diagram_2.png"
-    paper_pdf: "/assets/publications/2025_spatial_deconfounder/Spatial_Deconfounder_ICML.pdf"
+    paper_pdf: "/assets/publications/2025_spatial_deconfounder/Spatial_Deconfounder_ICML_2.pdf"
     arxiv: "https://arxiv.org/pdf/2510.08762"
     slides: "/assets/publications/2025_spatial_deconfounder/Spatial_Deconfounder_ICML_Presentation.pdf"
     poster: "/assets/publications/2025_spatial_deconfounder/deconfounder_poster.png"
